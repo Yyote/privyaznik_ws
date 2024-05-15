@@ -7,6 +7,10 @@ repositories:
     type: git
     url: git@github.com:Yyote/aruco_precision_landing_ardupilot.git
     version: master
+  src/coordinate_conversion_py:
+    type: git
+    url: git@github.com:Yyote/coordinate_conversion_py.git
+    version: master
   src/mavsdk_bridge:
     type: git
     url: git@github.com:Yyote/mavsdk_bridge.git
