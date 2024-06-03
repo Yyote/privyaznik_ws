@@ -11,6 +11,7 @@ mkdir src
 ## For ssh
 
 ```
+# in ~/privyaznik_ws
 vcs import < ssh.repos
 colcon build
 ```
@@ -18,6 +19,7 @@ colcon build
 ## For https
 
 ```
+# in ~/privyaznik_ws
 vcs import < https.repos
 colcon build
 ```
