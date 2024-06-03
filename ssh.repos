@@ -1,7 +1,7 @@
 repositories:
   src/ardupilot_custom_launches:
     type: git
-    url: https://github.com/Yyote/ardupilot_custom_launches.git
+    url: git@github.com:Yyote/ardupilot_custom_launches.git
     version: master
   src/aruco_precision_landing_ardupilot:
     type: git
@@ -17,5 +17,5 @@ repositories:
     version: master
   src/privyaznik_msgs:
     type: git
-    url: https://github.com/Yyote/privyaznik_msgs.git
+    url: git@github.com:Yyote/privyaznik_msgs.git
     version: master

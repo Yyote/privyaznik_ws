@@ -2,4 +2,8 @@ src/
 build/
 install/
 log/
+logs/
 .vscode/
+terrain/
+eeprom*
+mav*

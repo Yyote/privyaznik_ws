@@ -1,0 +1,22 @@
+repositories:
+  src/ardupilot_custom_launches:
+    type: git
+    url: https://github.com/Yyote/ardupilot_custom_launches.git
+    version: master
+  src/aruco_precision_landing_ardupilot:
+    type: git
+    url: https://github.com/Yyote/aruco_precision_landing_ardupilot.git
+    version: master
+  src/coordinate_conversion_py:
+    type: git
+    url: https://github.com/Yyote/coordinate_conversion_py.git
+    version: master
+  src/mavsdk_bridge:
+    type: git
+    url: https://github.com/Yyote/mavsdk_bridge.git
+    version: master
+  src/privyaznik_msgs:
+    type: git
+    url: https://github.com/Yyote/privyaznik_msgs.git
+    version: master
+

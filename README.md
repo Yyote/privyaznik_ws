@@ -1,10 +1,24 @@
 # Installation
 
 ```bash
+cd ~
 git clone https://github.com/Yyote/privyaznik_ws.git
-pip3 instsall vcstool
-cd /path/to/privyaznik_ws
+pip3 install vcstool
+cd privyaznik_ws
 mkdir src
-vcs import < privyznik.repos
+```
+
+## For ssh
+
+```
+vcs import < ssh.repos
 colcon build
 ```
+
+## For https
+
+```
+vcs import < https.repos
+colcon build
+```
+
