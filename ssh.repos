@@ -19,3 +19,13 @@ repositories:
     type: git
     url: git@github.com:Yyote/privyaznik_msgs.git
     version: master
+  src/euler_angles_lib:
+    type: git
+    url: git@github.com:rirpc-uav-lab/euler_angles_lib.git
+    version: master
+  src/pid_regulator_lib:
+    type: git
+    url: git@github.com:rirpc-uav-lab/pid_regulator_lib.git
+    version: master
+
+
